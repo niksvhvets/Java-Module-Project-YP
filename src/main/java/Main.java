@@ -6,7 +6,7 @@ public class Main {
 
         int countOfRacingCars = 3;
 
-        ArrayList<RacingCar> listRacingCars = raceUtils.getAllRacingCars(countOfRacingCars);
-        raceUtils.getRaceWinner(listRacingCars);
+        ArrayList<RacingCar> listRacingCars = RaceUtils.getAllRacingCars(countOfRacingCars);
+        RaceUtils.getRaceWinner(listRacingCars);
     }
 }

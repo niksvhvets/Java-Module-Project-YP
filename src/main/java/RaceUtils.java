@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class raceUtils {
+public class RaceUtils {
 
     private static final String inputMessageRacingCarName =
             "Введите название гоночного автомобиля №%d: ";
